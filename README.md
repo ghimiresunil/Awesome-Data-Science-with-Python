@@ -12,6 +12,15 @@ Great resources for learning data science with Python including tutorials, code 
 - [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - Data Science Project Templates.
 - [nteract](https://nteract.io/) - Open Jupyter Notebooks with doubleclick.
 - [papermill](https://github.com/nteract/papermill) - Parameterize and execute Jupyter notebooks([tutorial](https://pbpython.com/papermil-rclone-report-1.html)).
+- [nbdime](https://github.com/jupyter/nbdime) - Different two notebook files, Alternative GitHub App: [ReviewNB](https://www.reviewnb.com/).
+- [RISE](https://github.com/damianavila/RISE) - Turn Jupyter notebooks files into presentations.
+- [qgrid](https://github.com/quantopian/qgrid) - Pandas `DataFrame` sorting.
+- [pivottablejs](https://github.com/nicolaskruchten/jupyter_pivottablejs) - Drag n drop Pivot Tables and Charts for jupyter notebooks.
+- [itables](https://github.com/mwouts/itables) - Interactive tables in Jupyter.
+- [jupyter-datatables](https://github.com/CermakM/jupyter-datatables) - Interactive tables in Jupyter.
+- [debugger](https://blog.jupyter.org/a-visual-debugger-for-jupyter-914e61716559) - Visual debugger for Jupyter. 
+- [nbcommands](https://github.com/vinayak-mehta/nbcommands) - View and search notebooks from terminal.
+- [handcalcs](https://github.com/connorferster/handcalcs) - More convenient way of writing mathematical equations in Jupyter.
 
 
 
