@@ -30,7 +30,21 @@ Great resources for learning data science with Python including tutorials, code 
 - [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) - Descriptive statistics using `ProfileReport`.
 - [Matplotlib](https://matplotlib.org/) - Visualization library.
 - [Seaborn](https://seaborn.pydata.org/) - Data visualization library based on matplotlib.
-- [scikit-learn](https://scikit-learn.org/stable/) - Core ML library.
+- [scikit-learn](https://scikit-learn.org/stable/) - Core Machine Learning library.
 - [sklearn_pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Helpful `DataFrameMapper` class.
 - [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization.
 - [rainbow-csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - Plugin to display .csv files with nice colors.
+
+## Pandas Tricks, Additions, and Alternatives
+
+- [Top 5 Best Pandas Tricks](https://towardsdatascience.com/5-lesser-known-pandas-tricks-e8ab1dd21431)
+- [df.pipe](https://www.youtube.com/watch?v=yXGCKqo5cEY&ab_channel=PyData) -  Function to improve code readability
+- [pandasvault](https://github.com/firmai/pandasvault) - Large collection of pandas tricks.
+- [vaex](https://github.com/vaexio/vaex) - Out-of-Core DataFrames.
+- [modin](https://github.com/modin-project/modin) - Parallelization library for faster pandas `DataFrame`.
+- [xarray](https://github.com/pydata/xarray/) - Extends pandas to n-dimensional arrays.
+- [pandarallel](https://github.com/nalepae/pandarallel) - Parallelize pandas operations.
+- [pandapy](https://github.com/firmai/pandapy) - Additional features for pandas.
+- [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - Find business logic issues and performance issues in pandas.
+- [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - Write custom accessors like `.str` and `.dt`.
+- [swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas dataframe faster.
