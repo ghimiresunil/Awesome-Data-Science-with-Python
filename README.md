@@ -22,5 +22,15 @@ Great resources for learning data science with Python including tutorials, code 
 - [nbcommands](https://github.com/vinayak-mehta/nbcommands) - View and search notebooks from terminal.
 - [handcalcs](https://github.com/connorferster/handcalcs) - More convenient way of writing mathematical equations in Jupyter.
 
+## 02. Core 
 
-
+- [NumPy](https://numpy.org/) - Multidimensional Arrays
+- [Pandas](https://pandas.pydata.org/) - Data structures built on top of NumPy library
+- [pandas_summary](https://github.com/mouradmourafiq/pandas-summary) - Basic statistics using `DataFrameSummary(df).summary()`.
+- [pandas_profiling](https://github.com/pandas-profiling/pandas-profiling) - Descriptive statistics using `ProfileReport`.
+- [Matplotlib](https://matplotlib.org/) - Visualization library.
+- [Seaborn](https://seaborn.pydata.org/) - Data visualization library based on matplotlib.
+- [scikit-learn](https://scikit-learn.org/stable/) - Core ML library.
+- [sklearn_pandas](https://github.com/scikit-learn-contrib/sklearn-pandas) - Helpful `DataFrameMapper` class.
+- [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization.
+- [rainbow-csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - Plugin to display .csv files with nice colors.
