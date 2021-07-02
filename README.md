@@ -9,7 +9,9 @@ Great resources for learning data science with Python including tutorials, code 
   -  [Blog Post](https://www.blog.pythonlibrary.org/2018/10/17/jupyter-notebook-debugging/)
   -  [Video](https://www.youtube.com/watch?v=Z0ssNAbe81M&t=1h44m15s)
   -  [Cheatsheet](https://nblock.org/2011/11/15/pdb-cheatsheet/)
-- [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - Project template for data science projects.
+- [cookiecutter-data-science](https://github.com/drivendata/cookiecutter-data-science) - Data Science Project Templates.
+- [nteract](https://nteract.io/) - Open Jupyter Notebooks with doubleclick.
+- [papermill](https://github.com/nteract/papermill) - Parameterize and execute Jupyter notebooks([tutorial](https://pbpython.com/papermil-rclone-report-1.html)).
 
 
 
