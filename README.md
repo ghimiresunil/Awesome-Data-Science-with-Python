@@ -35,7 +35,7 @@ Great resources for learning data science with Python including tutorials, code 
 - [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization.
 - [rainbow-csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - Plugin to display .csv files with nice colors.
 
-## Pandas Tricks, Additions, and Alternatives
+## 03. Pandas Tricks, Additions, and Alternatives
 
 - [Top 5 Best Pandas Tricks](https://towardsdatascience.com/5-lesser-known-pandas-tricks-e8ab1dd21431)
 - [df.pipe](https://www.youtube.com/watch?v=yXGCKqo5cEY&ab_channel=PyData) -  Function to improve code readability
