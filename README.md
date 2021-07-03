@@ -48,3 +48,11 @@ Great resources for learning data science with Python including tutorials, code 
 - [pandas-log](https://github.com/eyaltrabelsi/pandas-log) - Find business logic issues and performance issues in pandas.
 - [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - Write custom accessors like `.str` and `.dt`.
 - [swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas dataframe faster.
+
+## 04. Helpful
+
+- [tqdm](https://github.com/tqdm/tqdm) - Progress bars for for-loops. Also supports [pandas apply()](https://stackoverflow.com/a/34365537/1820480).
+- [icecream](https://github.com/gruns/icecream) - Simple debugging output.
+- [pyprojroot](https://github.com/chendaniely/pyprojroot) - Helpful `here()` command from R.
+- [intake](https://github.com/intake/intake) - Loading datasets made easier, [talk](https://www.youtube.com/watch?v=s7Ww5-vD2Os&t=33m40s).
+- [loguru](https://github.com/Delgan/loguru) - Python logging.
