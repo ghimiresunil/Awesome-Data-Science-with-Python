@@ -1,4 +1,6 @@
 # Awesome-Data-Science-with-Python
+![0-02-03-38ae5bde119a673574e6e60c454e89f5b7fdda92d1e4e75b724444e9c5e84c09_1f8c7d07369fb7](https://user-images.githubusercontent.com/40186859/124362250-8f546080-dc53-11eb-9cbe-9986f5677102.jpg)
+
 Great resources for learning data science with Python including tutorials, code snippets, blog pieces, and lectures, as well as libraries.
 
 ## 01. Environment and Jupyter 
