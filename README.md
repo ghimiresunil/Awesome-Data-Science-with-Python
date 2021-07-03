@@ -56,3 +56,8 @@ Great resources for learning data science with Python including tutorials, code 
 - [pyprojroot](https://github.com/chendaniely/pyprojroot) - Helpful `here()` command from R.
 - [intake](https://github.com/intake/intake) - Loading datasets made easier, [talk](https://www.youtube.com/watch?v=s7Ww5-vD2Os&t=33m40s).
 - [loguru](https://github.com/Delgan/loguru) - Python logging.
+
+## 05. Extraction
+- [camelot](https://github.com/socialcopsdev/camelot) - Extract text from PDF.
+- [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.
+
