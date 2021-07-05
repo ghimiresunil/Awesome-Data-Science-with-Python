@@ -63,3 +63,6 @@ Great resources for learning data science with Python including tutorials, code 
 - [camelot](https://github.com/socialcopsdev/camelot) - Extract text from PDF.
 - [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.
 
+## 06. Big Data
+- [spark](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html#work-with-dataframes) - `DataFrame` for big data, [cheatsheet](https://gist.github.com/crawles/b47e23da8218af0b9bd9d47f5242d189), [tutorial](https://github.com/ericxiao251/spark-syntax).
+- 
