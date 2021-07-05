@@ -64,5 +64,16 @@ Great resources for learning data science with Python including tutorials, code 
 - [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.
 
 ## 06. Big Data
-- [spark](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html#work-with-dataframes) - `DataFrame` for big data, [cheatsheet](https://gist.github.com/crawles/b47e23da8218af0b9bd9d47f5242d189), [tutorial](https://github.com/ericxiao251/spark-syntax).
-- 
+- [spark](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html#work-with-dataframes) - `DataFrame` for big data
+  -   [cheatsheet](https://gist.github.com/crawles/b47e23da8218af0b9bd9d47f5242d189)
+  -   [tutorial](https://github.com/ericxiao251/spark-syntax).
+- [sparkit-learn](https://github.com/lensacom/sparkit-learn)
+  - [spark-deep-learning](https://github.com/databricks/spark-deep-learning) - ML frameworks for spark.
+- [koalas](https://github.com/databricks/koalas) - Pandas API on Apache Spark.
+- [dask](https://github.com/dask/dask)
+  - [dask-ml](http://ml.dask.org/) - Pandas `DataFrame` for big data and machine learning library
+  - [resources](https://matthewrocklin.com/blog//work/2018/07/17/dask-dev), [talk1](https://www.youtube.com/watch?v=ccfsbuqsjgI)
+  - [talk2](https://www.youtube.com/watch?v=RA_2qdipVng)
+  - [notebooks](https://github.com/dask/dask-ec2/tree/master/notebooks)
+  - [videos](https://www.youtube.com/user/mdrocklin).
+  - [dask-gateway](https://github.com/jcrist/dask-gateway) - Managing dask clusters.
