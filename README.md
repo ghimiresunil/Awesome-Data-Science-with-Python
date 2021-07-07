@@ -77,3 +77,11 @@ Great resources for learning data science with Python including tutorials, code 
   - [notebooks](https://github.com/dask/dask-ec2/tree/master/notebooks)
   - [videos](https://www.youtube.com/user/mdrocklin).
   - [dask-gateway](https://github.com/jcrist/dask-gateway) - Managing dask clusters.
+
+## 07. Command line tools, CSV
+- [ni](https://github.com/spencertipping/ni) - Command line tool for big data.
+- [xsv](https://github.com/BurntSushi/xsv) - Command line tool for indexing, slicing, analyzing, splitting and joining CSV files.
+- [csvkit](https://csvkit.readthedocs.io/en/1.0.3/) - Another command line tool for CSV files.
+- [csvsort](https://pypi.org/project/csvsort/) - Sort large csv files.
+- [tsv-utils](https://github.com/eBay/tsv-utils) - Tools for working with CSV files by ebay.
+- [cheat](https://github.com/cheat/cheat) - Make cheatsheets for command line commands.
