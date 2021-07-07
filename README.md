@@ -1,9 +1,10 @@
 # Awesome-Data-Science-with-Python
 ![0-02-03-38ae5bde119a673574e6e60c454e89f5b7fdda92d1e4e75b724444e9c5e84c09_1f8c7d07369fb7](https://user-images.githubusercontent.com/40186859/124362250-8f546080-dc53-11eb-9cbe-9986f5677102.jpg)
 
+# 01. Basic Introduction
 Great resources for learning data science with Python including tutorials, code snippets, blog pieces, and lectures, as well as libraries.
 
-## 01. Environment and Jupyter 
+## 1.1. Environment and Jupyter 
 
 - [General Jupyter Tricks](https://www.dataquest.io/blog/jupyter-notebook-tips-tricks-shortcuts/)
 - [Fix Jupyter Notebook](https://jakevdp.github.io/blog/2017/12/05/installing-python-packages-from-jupyter/)
@@ -24,7 +25,7 @@ Great resources for learning data science with Python including tutorials, code 
 - [nbcommands](https://github.com/vinayak-mehta/nbcommands) - View and search notebooks from terminal.
 - [handcalcs](https://github.com/connorferster/handcalcs) - More convenient way of writing mathematical equations in Jupyter.
 
-## 02. Core 
+## 1.2. Core 
 
 - [NumPy](https://numpy.org/) - Multidimensional Arrays
 - [Pandas](https://pandas.pydata.org/) - Data structures built on top of NumPy library
@@ -37,7 +38,7 @@ Great resources for learning data science with Python including tutorials, code 
 - [missingno](https://github.com/ResidentMario/missingno) - Missing data visualization.
 - [rainbow-csv](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv) - Plugin to display .csv files with nice colors.
 
-## 03. Pandas Tricks, Additions, and Alternatives
+## 1.3. Pandas Tricks, Additions, and Alternatives
 
 - [Top 5 Best Pandas Tricks](https://towardsdatascience.com/5-lesser-known-pandas-tricks-e8ab1dd21431)
 - [df.pipe](https://www.youtube.com/watch?v=yXGCKqo5cEY&ab_channel=PyData) -  Function to improve code readability
@@ -51,7 +52,7 @@ Great resources for learning data science with Python including tutorials, code 
 - [pandas_flavor](https://github.com/Zsailer/pandas_flavor) - Write custom accessors like `.str` and `.dt`.
 - [swifter](https://github.com/jmcarpenter2/swifter) - Apply any function to a pandas dataframe faster.
 
-## 04. Helpful
+## 1.4. Helpful
 
 - [tqdm](https://github.com/tqdm/tqdm) - Progress bars for for-loops. Also supports [pandas apply()](https://stackoverflow.com/a/34365537/1820480).
 - [icecream](https://github.com/gruns/icecream) - Simple debugging output.
@@ -59,11 +60,11 @@ Great resources for learning data science with Python including tutorials, code 
 - [intake](https://github.com/intake/intake) - Loading datasets made easier, [talk](https://www.youtube.com/watch?v=s7Ww5-vD2Os&t=33m40s).
 - [loguru](https://github.com/Delgan/loguru) - Python logging.
 
-## 05. Extraction
+## 1.5. Extraction
 - [camelot](https://github.com/socialcopsdev/camelot) - Extract text from PDF.
 - [textract](https://github.com/deanmalmgren/textract) - Extract text from any document.
 
-## 06. Big Data
+## 1.6. Big Data
 - [spark](https://docs.databricks.com/spark/latest/dataframes-datasets/introduction-to-dataframes-python.html#work-with-dataframes) - `DataFrame` for big data
   -   [cheatsheet](https://gist.github.com/crawles/b47e23da8218af0b9bd9d47f5242d189)
   -   [tutorial](https://github.com/ericxiao251/spark-syntax).
@@ -78,10 +79,17 @@ Great resources for learning data science with Python including tutorials, code 
   - [videos](https://www.youtube.com/user/mdrocklin).
   - [dask-gateway](https://github.com/jcrist/dask-gateway) - Managing dask clusters.
 
-## 07. Command line tools, CSV
+## 1.7. Command line tools, CSV
 - [ni](https://github.com/spencertipping/ni) - Command line tool for big data.
 - [xsv](https://github.com/BurntSushi/xsv) - Command line tool for indexing, slicing, analyzing, splitting and joining CSV files.
 - [csvkit](https://csvkit.readthedocs.io/en/1.0.3/) - Another command line tool for CSV files.
 - [csvsort](https://pypi.org/project/csvsort/) - Sort large csv files.
 - [tsv-utils](https://github.com/eBay/tsv-utils) - Tools for working with CSV files by ebay.
 - [cheat](https://github.com/cheat/cheat) - Make cheatsheets for command line commands.
+
+# 02. Classical Statistics
+
+## 2.1. Statistical Tests and Packages
+
+- [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html#statistical-tests) - Statistical tests.
+
