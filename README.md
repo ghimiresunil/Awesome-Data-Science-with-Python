@@ -100,3 +100,9 @@ Great resources for learning data science with Python including tutorials, code 
   -  Tutorials: [One-way](https://pythonfordatascience.org/anova-python/)
   -  [Two-way](https://pythonfordatascience.org/anova-2-way-n-way/)
   -  [Type 1,2,3 explained](https://mcfromnz.wordpress.com/2011/03/02/anova-type-iiiiii-ss-explained/).
+
+## 02. Visualizations
+- [Correlation](https://rpsychologist.com/d3/correlation/)
+- [Null Hypothesis Significance Testing (NHST) and Sample Size Calculation](https://rpsychologist.com/d3/NHST/)
+- [Cohen's d](https://rpsychologist.com/d3/cohend/)
+- [Confidence Interval](https://rpsychologist.com/d3/CI/)
