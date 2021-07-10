@@ -92,4 +92,11 @@ Great resources for learning data science with Python including tutorials, code 
 ## 2.1. Statistical Tests and Packages
 
 - [scipy.stats](https://docs.scipy.org/doc/scipy/reference/stats.html#statistical-tests) - Statistical tests.
-
+- [pingouin](https://github.com/raphaelvallat/pingouin) - Statistical tests.
+- [researchpy](https://github.com/researchpy/researchpy) - Helpful `summary_cont()` function for summary statistics (Table 1).
+- [scikit-posthocs](https://github.com/maximtrp/scikit-posthocs) - Statistical post-hoc tests for pairwise multiple comparisons.
+- [Bland-Altman Plot](http://www.statsmodels.org/dev/generated/statsmodels.graphics.agreement.mean_diff_plot.html) - Plot for agreement between two methods of measurement.
+- [ANOVA](https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.f_oneway.html)
+  -  Tutorials: [One-way](https://pythonfordatascience.org/anova-python/)
+  -  [Two-way](https://pythonfordatascience.org/anova-2-way-n-way/)
+  -  [Type 1,2,3 explained](https://mcfromnz.wordpress.com/2011/03/02/anova-type-iiiiii-ss-explained/).
