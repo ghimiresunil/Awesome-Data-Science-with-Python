@@ -106,3 +106,7 @@ Great resources for learning data science with Python including tutorials, code 
 - [Null Hypothesis Significance Testing (NHST) and Sample Size Calculation](https://rpsychologist.com/d3/NHST/)
 - [Cohen's d](https://rpsychologist.com/d3/cohend/)
 - [Confidence Interval](https://rpsychologist.com/d3/CI/)
+- [Equivalence, non-inferiority and superiority testing](https://rpsychologist.com/d3/equivalence/)
+- [Bayesian two-sample t test](https://rpsychologist.com/d3/bayes/)
+- [Distribution of p-values when comparing two groups](https://rpsychologist.com/d3/pdist/)
+- [Understanding the t-distribution and its normal approximation](https://rpsychologist.com/d3/tdist/)
