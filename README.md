@@ -101,7 +101,7 @@ Great resources for learning data science with Python including tutorials, code 
   -  [Two-way](https://pythonfordatascience.org/anova-2-way-n-way/)
   -  [Type 1,2,3 explained](https://mcfromnz.wordpress.com/2011/03/02/anova-type-iiiiii-ss-explained/).
 
-## 02. Visualizations
+## 2.2. Visualizations
 - [Correlation](https://rpsychologist.com/d3/correlation/)
 - [Null Hypothesis Significance Testing (NHST) and Sample Size Calculation](https://rpsychologist.com/d3/NHST/)
 - [Cohen's d](https://rpsychologist.com/d3/cohend/)
@@ -110,3 +110,7 @@ Great resources for learning data science with Python including tutorials, code 
 - [Bayesian two-sample t test](https://rpsychologist.com/d3/bayes/)
 - [Distribution of p-values when comparing two groups](https://rpsychologist.com/d3/pdist/)
 - [Understanding the t-distribution and its normal approximation](https://rpsychologist.com/d3/tdist/)
+
+## 2.3. Talks
+- [Inverse Propensity Weighting](https://www.youtube.com/watch?v=SUq0shKLPPs)
+- [Dealing with Selection Bias By Propensity Based Feature Selection](https://www.youtube.com/watch?reload=9&v=3ZWCKr0vDtc)
