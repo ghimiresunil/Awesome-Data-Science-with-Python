@@ -136,4 +136,9 @@ Great resources for learning data science with Python including tutorials, code 
 - [pyemd](https://github.com/wmayner/pyemd) - Earth Mover's Distance, similarity between histograms.  
 - [Kaggler](https://github.com/jeongyoonlee/Kaggler) - Utility functions (`OneHotEncoder(min_obs=100)`)  
 - [tspreprocess](https://github.com/MaxBenChrist/tspreprocess) - Time series preprocessing: Denoising, Compression, Resampling.  
-- [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Resampling for imbalanced datasets.  
+- [imbalanced-learn](https://github.com/scikit-learn-contrib/imbalanced-learn) - Resampling for imbalanced datasets.
+- [fancyimpute](https://github.com/iskandr/fancyimpute) - Matrix completion and imputation algorithms.
+- [impyute](https://github.com/eltonlaw/impyute) - Imputations.
+- [janitor](https://pyjanitor.readthedocs.io/) - Clean messy column names.
+- [littleballoffur](https://github.com/benedekrozemberczki/littleballoffur) - Sampling from graphs.
+- [Checklist](https://github.com/r0f1/ml_checklist). 
