@@ -148,6 +148,7 @@ Great resources for learning data science with Python including tutorials, code 
 - [iterative-stratification](https://github.com/trent-b/iterative-stratification) - Stratification of multilabel data.
 
 ## 2.8. Feature Engineering
-- [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) - Pipeline, [examples](https://github.com/jem1031/pandas-pipelines-custom-transformers).
+- [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) - Pipeline
+  - [Examples](https://github.com/jem1031/pandas-pipelines-custom-transformers).
 - [pdpipe](https://github.com/shaypal5/pdpipe) - Pipelines for DataFrames.
 - [scikit-lego](https://github.com/koaning/scikit-lego) - Custom transformers for pipelines.
