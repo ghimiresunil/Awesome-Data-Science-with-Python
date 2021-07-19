@@ -142,3 +142,7 @@ Great resources for learning data science with Python including tutorials, code 
 - [janitor](https://pyjanitor.readthedocs.io/) - Clean messy column names.
 - [littleballoffur](https://github.com/benedekrozemberczki/littleballoffur) - Sampling from graphs.
 - [Checklist](https://github.com/r0f1/ml_checklist). 
+
+## 2.7. Train / Test Split
+- [iterative-stratification](https://github.com/trent-b/iterative-stratification) - Stratification of multilabel data.
+
