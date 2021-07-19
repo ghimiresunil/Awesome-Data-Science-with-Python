@@ -114,6 +114,7 @@ Great resources for learning data science with Python including tutorials, code 
 ## 2.3. Talks
 - [Inverse Propensity Weighting](https://www.youtube.com/watch?v=SUq0shKLPPs)
 - [Dealing with Selection Bias By Propensity Based Feature Selection](https://www.youtube.com/watch?reload=9&v=3ZWCKr0vDtc)
+- [Talk](https://www.youtube.com/watch?v=68ABAU_V8qI)
 
 ## 2.4. Texts
 - [Greenland - Statistical tests, P values, confidence intervals, and power: a guide to misinterpretations](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4877414/)
@@ -146,3 +147,7 @@ Great resources for learning data science with Python including tutorials, code 
 ## 2.7. Train / Test Split
 - [iterative-stratification](https://github.com/trent-b/iterative-stratification) - Stratification of multilabel data.
 
+## 2.8. Feature Engineering
+- [sklearn](https://scikit-learn.org/stable/modules/generated/sklearn.pipeline.Pipeline.html) - Pipeline, [examples](https://github.com/jem1031/pandas-pipelines-custom-transformers).
+- [pdpipe](https://github.com/shaypal5/pdpipe) - Pipelines for DataFrames.
+- [scikit-lego](https://github.com/koaning/scikit-lego) - Custom transformers for pipelines.
