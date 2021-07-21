@@ -155,4 +155,8 @@ Great resources for learning data science with Python including tutorials, code 
 - [skoot](https://github.com/tgsmith61591/skoot) - Pipeline helper functions.
 - [categorical-encoding](https://github.com/scikit-learn-contrib/categorical-encoding) - Categorical encoding of variables
   - [vtreat (R package)](https://cran.r-project.org/web/packages/vtreat/vignettes/vtreat.html).
-- 
+- [dirty_cat](https://github.com/dirty-cat/dirty_cat) - Encoding dirty categorical variables.
+- [patsy](https://github.com/pydata/patsy/) - R-like syntax for statistical models.
+- [mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_extraction/LinearDiscriminantAnalysis/) - LDA.
+- [featuretools](https://github.com/Featuretools/featuretools) - Automated feature engineering
+  -  [example](https://github.com/WillKoehrsen/automated-feature-engineering/blob/master/walk_through/Automated_Feature_Engineering.ipynb).
