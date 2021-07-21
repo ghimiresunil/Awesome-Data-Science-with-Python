@@ -152,3 +152,7 @@ Great resources for learning data science with Python including tutorials, code 
   - [Examples](https://github.com/jem1031/pandas-pipelines-custom-transformers).
 - [pdpipe](https://github.com/shaypal5/pdpipe) - Pipelines for DataFrames.
 - [scikit-lego](https://github.com/koaning/scikit-lego) - Custom transformers for pipelines.
+- [skoot](https://github.com/tgsmith61591/skoot) - Pipeline helper functions.
+- [categorical-encoding](https://github.com/scikit-learn-contrib/categorical-encoding) - Categorical encoding of variables
+  - [vtreat (R package)](https://cran.r-project.org/web/packages/vtreat/vignettes/vtreat.html).
+- 
