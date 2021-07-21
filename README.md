@@ -159,4 +159,7 @@ Great resources for learning data science with Python including tutorials, code 
 - [patsy](https://github.com/pydata/patsy/) - R-like syntax for statistical models.
 - [mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_extraction/LinearDiscriminantAnalysis/) - LDA.
 - [featuretools](https://github.com/Featuretools/featuretools) - Automated feature engineering
-  -  [example](https://github.com/WillKoehrsen/automated-feature-engineering/blob/master/walk_through/Automated_Feature_Engineering.ipynb).
+  -  [Example](https://github.com/WillKoehrsen/automated-feature-engineering/blob/master/walk_through/Automated_Feature_Engineering.ipynb).
+- [feature_engine](https://github.com/solegalli/feature_engine) - Encoders, transformers
+- [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines.
+- [tsfresh](https://github.com/blue-yonder/tsfresh) - Time series feature engineering.
