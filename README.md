@@ -163,3 +163,9 @@ Great resources for learning data science with Python including tutorials, code 
 - [feature_engine](https://github.com/solegalli/feature_engine) - Encoders, transformers
 - [pypeln](https://github.com/cgarciae/pypeln) - Concurrent data pipelines.
 - [tsfresh](https://github.com/blue-yonder/tsfresh) - Time series feature engineering.
+
+## 2.9. Feature Selection
+- [Talk](https://www.youtube.com/watch?v=JsArBz46_3s)
+- Blog post series - [1](http://blog.datadive.net/selecting-good-features-part-i-univariate-selection/), [2](http://blog.datadive.net/selecting-good-features-part-ii-linear-models-and-regularization/), [3](http://blog.datadive.net/selecting-good-features-part-iii-random-forests/), [4](http://blog.datadive.net/selecting-good-features-part-iv-stability-selection-rfe-and-everything-side-by-side/)
+- Tutorials - [1](https://www.kaggle.com/residentmario/automated-feature-selection-with-sklearn), [2](https://machinelearningmastery.com/feature-selection-machine-learning-python/)
+- [sklearn](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.feature_selection) - Feature selection.
