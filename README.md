@@ -175,3 +175,13 @@ Great resources for learning data science with Python including tutorials, code 
   - [1](https://www.kaggle.com/residentmario/automated-feature-selection-with-sklearn)
   - [2](https://machinelearningmastery.com/feature-selection-machine-learning-python/)
 - [sklearn](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.feature_selection) - Feature selection.
+- [stability-selection](https://github.com/scikit-learn-contrib/stability-selection) - Stability selection.  
+- [scikit-rebate](https://github.com/EpistasisLab/scikit-rebate) - Relief-based feature selection algorithms.  
+- [scikit-genetic](https://github.com/manuel-calzolari/sklearn-genetic) - Genetic feature selection.  
+- [boruta_py](https://github.com/scikit-learn-contrib/boruta_py) - Feature selection
+  - [explaination](https://stats.stackexchange.com/questions/264360/boruta-all-relevant-feature-selection-vs-random-forest-variables-of-importanc/264467), 
+  - [example](https://www.kaggle.com/tilii7/boruta-feature-elimination).  
+- [linselect](https://github.com/efavdb/linselect) - Feature selection package.  
+- [mlxtend](https://rasbt.github.io/mlxtend/user_guide/feature_selection/ExhaustiveFeatureSelector/) - Exhaustive feature selection.     
+- [BoostARoota](https://github.com/chasedehan/BoostARoota) - Xgboost feature selection algorithm.  
+- [INVASE](https://github.com/jsyoon0823/INVASE) - Instance-wise Variable Selection using Neural Networks.  
